@@ -1,0 +1,208 @@
+body {
+
+    background-color: pink;
+
+    font-family: Arial;
+
+    margin-top: 80px;
+
+}
+
+
+/* prayer box */
+
+.prayer-box {
+
+    background-color: white;
+
+    width: 150px;
+
+    padding: 15px;
+
+    border-radius: 15px;
+
+    box-shadow: 0 0 10px gray;
+
+    position: fixed;
+
+    left: 20px;
+
+    top: 80px;
+
+}
+
+
+/* prayer title */
+
+.prayer-box h2 {
+
+    text-align: center;
+
+    color: deeppink;
+
+    margin-bottom: 10px;
+
+}
+
+
+/* each prayer */
+
+.pray {
+
+    background-color: #eeeeee;
+
+    margin-top: 10px;
+
+    padding: 7px;
+
+    border-radius: 8px;
+
+}
+
+
+/* prayer text */
+
+.pray label {
+
+    margin-left: 5px;
+
+    font-size: 15px;
+
+}
+
+
+/* todo box */
+
+.box {
+
+    background-color: white;
+
+    width: 420px;
+
+    padding: 20px;
+
+    border-radius: 15px;
+
+    box-shadow: 0 0 10px gray;
+
+    margin: auto;
+
+}
+
+
+/* title */
+
+h1 {
+
+    text-align: center;
+
+    color: deeppink;
+
+}
+
+
+/* counter */
+
+#count {
+
+    text-align: center;
+
+    color: gray;
+
+    margin-bottom: 15px;
+
+}
+
+
+/* input */
+
+#input {
+
+    width: 65%;
+
+    padding: 10px;
+
+    border: 1px solid gray;
+
+    border-radius: 5px;
+
+}
+
+
+/* add button */
+
+#btn {
+
+    padding: 10px;
+
+    background-color: hotpink;
+
+    color: white;
+
+    border: none;
+
+    border-radius: 5px;
+
+    cursor: pointer;
+
+}
+
+
+/* button hover */
+
+#btn:hover {
+
+    background-color: deeppink;
+
+}
+
+
+/* tasks */
+
+li {
+
+    background-color: #d9d9d9;
+
+    margin-top: 10px;
+
+    padding: 10px;
+
+    list-style: none;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    border-radius: 5px;
+
+}
+
+
+/* completed task */
+
+.done {
+
+    text-decoration: line-through;
+
+    background-color: lightpink;
+
+}
+
+
+/* delete button */
+
+.del {
+
+    background-color: gray;
+
+    color: white;
+
+    border: none;
+
+    padding: 5px;
+
+    border-radius: 5px;
+
+    cursor: pointer;
+
+}
