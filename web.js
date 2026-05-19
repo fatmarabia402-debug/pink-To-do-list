@@ -30,7 +30,7 @@ btn.onclick = function () {
         li.appendChild(span)
 
 
-        // delete button
+        
 
         let del = document.createElement("button")
 
@@ -41,21 +41,21 @@ btn.onclick = function () {
         li.appendChild(del)
 
 
-        // add task
+        
 
         list.appendChild(li)
 
         input.value = ""
 
 
-        // counter
+        
 
         num++
 
         count.innerHTML = "Tasks : " + num
 
 
-        // complete task
+        
 
         span.onclick = function () {
 
@@ -64,7 +64,7 @@ btn.onclick = function () {
         }
 
 
-        // delete task
+        
 
         del.onclick = function () {
 
