@@ -9,7 +9,7 @@ body {
 }
 
 
-/* prayer box */
+
 
 .prayer-box {
 
@@ -32,7 +32,7 @@ body {
 }
 
 
-/* prayer title */
+
 
 .prayer-box h2 {
 
@@ -45,7 +45,7 @@ body {
 }
 
 
-/* each prayer */
+
 
 .pray {
 
@@ -60,7 +60,7 @@ body {
 }
 
 
-/* prayer text */
+
 
 .pray label {
 
@@ -71,7 +71,6 @@ body {
 }
 
 
-/* todo box */
 
 .box {
 
@@ -90,7 +89,7 @@ body {
 }
 
 
-/* title */
+
 
 h1 {
 
@@ -101,7 +100,7 @@ h1 {
 }
 
 
-/* counter */
+
 
 #count {
 
@@ -114,7 +113,7 @@ h1 {
 }
 
 
-/* input */
+
 
 #input {
 
@@ -129,7 +128,7 @@ h1 {
 }
 
 
-/* add button */
+
 
 #btn {
 
@@ -148,7 +147,7 @@ h1 {
 }
 
 
-/* button hover */
+
 
 #btn:hover {
 
@@ -157,7 +156,7 @@ h1 {
 }
 
 
-/* tasks */
+
 
 li {
 
@@ -178,7 +177,6 @@ li {
 }
 
 
-/* completed task */
 
 .done {
 
@@ -189,7 +187,6 @@ li {
 }
 
 
-/* delete button */
 
 .del {
 
